@@ -7,19 +7,19 @@
 
 ----
 
-![holding step 1](https://github.com/Argentum11/cube_tutorial/assets/92793837/a409a008-40f4-4fc4-a335-ed64ce516262")
+![holding step 1](https://github.com/Argentum11/cube_tutorial/assets/92793837/58ba4fbe-a3e4-4394-8eea-a0ac8823e3f2)
 
 ----
 
-![holding step 2](https://github.com/Argentum11/cube_tutorial/assets/92793837/9928d252-a407-436f-9059-e6df51586a73)
+![holding step 2](https://github.com/Argentum11/cube_tutorial/assets/92793837/fdc5b990-a0f4-40c2-b319-157ac985f8b7)
 
 ----
 
-![holding step 3](https://github.com/Argentum11/cube_tutorial/assets/92793837/5497ae3a-4b1b-44a6-be18-8473f0855907)
+![holding step 3](https://github.com/Argentum11/cube_tutorial/assets/92793837/155fa60d-732c-4faf-91d8-877d53356f47)
 
 ----
 
-![holding step 4](https://github.com/Argentum11/cube_tutorial/assets/92793837/94178684-ebc6-4300-b146-c597705903ac)
+![holding step 4](https://github.com/Argentum11/cube_tutorial/assets/92793837/e2c7f431-9fd4-49cb-8ebd-c0d53741c13e)
 
 ---
 
