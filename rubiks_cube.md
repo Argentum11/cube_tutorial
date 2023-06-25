@@ -76,3 +76,30 @@
 
 ![U](https://github.com/Argentum11/cube_tutorial/assets/92793837/dfed6d08-32fd-4cff-bd93-bf9585d1df60)
 
+---
+
+## Trigger
+
+----
+
+![left trigger 1](https://github.com/Argentum11/cube_tutorial/assets/92793837/39a9fdc7-1f5c-42a3-87aa-5ecd91bb504e)
+
+----
+
+![left trigger 2](https://github.com/Argentum11/cube_tutorial/assets/92793837/fc4f289f-aa42-4a02-87ef-5990f6edc734)
+
+----
+
+![left trigger 3](https://github.com/Argentum11/cube_tutorial/assets/92793837/cbe87c8b-2e8b-4f6a-9985-064ce63b8593)
+
+----
+
+![right trigger 1](https://github.com/Argentum11/cube_tutorial/assets/92793837/67eacfd4-03d6-428d-8018-b5d1e2bca203)
+
+----
+
+![right trigger 2](https://github.com/Argentum11/cube_tutorial/assets/92793837/63ca310d-0914-4bfa-9e98-8371465357e4)
+
+----
+
+![right trigger 3](https://github.com/Argentum11/cube_tutorial/assets/92793837/efdc1b9b-38f1-4460-9605-90a107d9450e)
