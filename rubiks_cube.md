@@ -122,9 +122,13 @@
 
 ----
 
+### 1. make the daisy
+
 ![1 make the daisy](https://github.com/Argentum11/cube_tutorial/assets/92793837/6a025089-ef01-46ee-af80-73ced34cbd93)
 
 ----
+
+### 2. make the white cross
 
 ![2 create the white cross](https://github.com/Argentum11/cube_tutorial/assets/92793837/9b14c1d6-9b23-41a7-9c61-4b58d3480730)
 
@@ -142,9 +146,13 @@
 
 ----
 
+### 3. solve the corner of bottom face
+
 ![3-1 white block on the top layer of F](https://github.com/Argentum11/cube_tutorial/assets/92793837/634aff3d-fb50-40c3-a42e-83540b5ea2bd)
 
 ----
+
+### white block on the top layer of F
 
 ![3-2](https://github.com/Argentum11/cube_tutorial/assets/92793837/974857c2-23e0-4e1c-9a16-4544eeca0181)
 
@@ -158,6 +166,8 @@
 
 ----
 
+### white block on the bottom layer of F
+
 ![4-1 white block on the bottom layer of F](https://github.com/Argentum11/cube_tutorial/assets/92793837/e688e389-9617-49f0-942f-2f54e6c44cda)
 
 ----
@@ -165,6 +175,8 @@
 ![4-2](https://github.com/Argentum11/cube_tutorial/assets/92793837/eda16e7a-8b54-4e8e-b48e-752b11475545)
 
 ----
+
+### white block on the U face
 
 ![5-1 white block in U](https://github.com/Argentum11/cube_tutorial/assets/92793837/39290797-94ed-49c2-91d4-b3f657ddaf57)
 
@@ -179,4 +191,3 @@
 ----
 
 ![5-4](https://github.com/Argentum11/cube_tutorial/assets/92793837/a936cf69-7312-4fea-9925-0add7aced2a2)
-
