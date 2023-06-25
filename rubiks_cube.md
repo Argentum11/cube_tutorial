@@ -1,24 +1,34 @@
 # Rubik's cube (3 x 3)
 
+[source](https://youtu.be/KFn-Cw_K1b4)
+
 ---
 
-## how to hold the cube
+## How to hold the cube
 
 ----
 
-![holding step 1](https://github.com/Argentum11/cube_tutorial/assets/92793837/58ba4fbe-a3e4-4394-8eea-a0ac8823e3f2)
+### left hand - thumb
+
+![left hand - thumb](https://github.com/Argentum11/cube_tutorial/assets/92793837/58ba4fbe-a3e4-4394-8eea-a0ac8823e3f2)
 
 ----
 
-![holding step 2](https://github.com/Argentum11/cube_tutorial/assets/92793837/fdc5b990-a0f4-40c2-b319-157ac985f8b7)
+### left hand - middle & ring finger
+
+![left hand - middle & ring finger](https://github.com/Argentum11/cube_tutorial/assets/92793837/fdc5b990-a0f4-40c2-b319-157ac985f8b7)
 
 ----
 
-![holding step 3](https://github.com/Argentum11/cube_tutorial/assets/92793837/155fa60d-732c-4faf-91d8-877d53356f47)
+### right hand - middle & ring finger
+
+![right hand - middle & ring finger](https://github.com/Argentum11/cube_tutorial/assets/92793837/155fa60d-732c-4faf-91d8-877d53356f47)
 
 ----
 
-![holding step 4](https://github.com/Argentum11/cube_tutorial/assets/92793837/e2c7f431-9fd4-49cb-8ebd-c0d53741c13e)
+### right hand - thumb
+
+![right hand - thumb](https://github.com/Argentum11/cube_tutorial/assets/92793837/e2c7f431-9fd4-49cb-8ebd-c0d53741c13e)
 
 ---
 
@@ -26,13 +36,19 @@
 
 ----
 
+### react to a letter
+
 ![react to a letter](https://github.com/Argentum11/cube_tutorial/assets/92793837/ba2b7f9d-37ae-4a3d-8d1b-eb0d5c5712e3)
 
 ----
 
+### letter with a number
+
 ![react to a letter with a number](https://github.com/Argentum11/cube_tutorial/assets/92793837/a77e94b9-6d01-4062-83ba-26595b8e3c5d)
 
 ----
+
+### letter with an apostrophe
 
 ![react to a letter with an apostrophe](https://github.com/Argentum11/cube_tutorial/assets/92793837/a3c7ce66-b9c1-4646-a598-59f38919bc44)
 
