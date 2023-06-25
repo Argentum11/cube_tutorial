@@ -238,6 +238,8 @@
 
 ----
 
+### yellow cross
+
 ![1-1 create the yellow cross](https://github.com/Argentum11/cube_tutorial/assets/92793837/a8cccdb3-830d-47f6-bc89-53507bbd7689)
 
 ----
@@ -254,6 +256,10 @@
 
 ----
 
+### solve the yellow face
+
+----
+
 ![2-1 solve the yellow face - 0 or 2 corners](https://github.com/Argentum11/cube_tutorial/assets/92793837/24871bb6-2c0e-4ee0-a10b-dd865b59b62e)
 
 ----
@@ -263,6 +269,10 @@
 ----
 
 ![2-3 solve the yellow face - 1 corner](https://github.com/Argentum11/cube_tutorial/assets/92793837/ab1f46c5-6014-4821-9f40-4f06bf49ba02)
+
+----
+
+### corner blocks
 
 ----
 
@@ -282,6 +292,8 @@
 
 ----
 
+### position the edges
+
 ![4-1 position the edges - one face solved](https://github.com/Argentum11/cube_tutorial/assets/92793837/bd1fcc79-bb7e-4d1c-834e-6559206fad73)
 
 ----
@@ -299,3 +311,9 @@
 ----
 
 ![4-5](https://github.com/Argentum11/cube_tutorial/assets/92793837/e726aa3e-d7ba-4662-bff4-0ab66c85276d)
+
+---
+
+## The end
+
+![image](https://github.com/Argentum11/cube_tutorial/assets/92793837/4030d96e-6b7c-4605-bb12-5bb0e7f121f0)
