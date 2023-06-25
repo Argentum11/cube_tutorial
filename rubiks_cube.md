@@ -115,3 +115,68 @@
 ### right trigger 3
 
 ![right trigger 3](https://github.com/Argentum11/cube_tutorial/assets/92793837/efdc1b9b-38f1-4460-9605-90a107d9450e)
+
+---
+
+## Bottom layer
+
+----
+
+![1 make the daisy](https://github.com/Argentum11/cube_tutorial/assets/92793837/6a025089-ef01-46ee-af80-73ced34cbd93)
+
+----
+
+![2 create the white cross](https://github.com/Argentum11/cube_tutorial/assets/92793837/9b14c1d6-9b23-41a7-9c61-4b58d3480730)
+
+----
+
+![2-2](https://github.com/Argentum11/cube_tutorial/assets/92793837/022c8ec2-294a-4a9b-ab72-a35730158bb7)
+
+----
+
+![2-3](https://github.com/Argentum11/cube_tutorial/assets/92793837/87396c42-d887-4e05-b7a9-8de47b1afcee)
+
+----
+
+![2-4](https://github.com/Argentum11/cube_tutorial/assets/92793837/68d0e59d-c414-4ab2-94be-917fbe514c62)
+
+----
+
+![3-1 white block on the top layer of F](https://github.com/Argentum11/cube_tutorial/assets/92793837/634aff3d-fb50-40c3-a42e-83540b5ea2bd)
+
+----
+
+![3-2](https://github.com/Argentum11/cube_tutorial/assets/92793837/974857c2-23e0-4e1c-9a16-4544eeca0181)
+
+----
+
+![3-3](https://github.com/Argentum11/cube_tutorial/assets/92793837/1a60768d-2871-4b80-9746-59e32b7d1c77)
+
+----
+
+![3-4](https://github.com/Argentum11/cube_tutorial/assets/92793837/cd499fd1-18ee-4c07-8f81-775f9c31ccdd)
+
+----
+
+![4-1 white block on the bottom layer of F](https://github.com/Argentum11/cube_tutorial/assets/92793837/e688e389-9617-49f0-942f-2f54e6c44cda)
+
+----
+
+![4-2](https://github.com/Argentum11/cube_tutorial/assets/92793837/eda16e7a-8b54-4e8e-b48e-752b11475545)
+
+----
+
+![5-1 white block in U](https://github.com/Argentum11/cube_tutorial/assets/92793837/39290797-94ed-49c2-91d4-b3f657ddaf57)
+
+----
+
+![5-2](https://github.com/Argentum11/cube_tutorial/assets/92793837/7c8c63b4-f5fa-409c-bdf0-05b985c0f231)
+
+----
+
+![5-3](https://github.com/Argentum11/cube_tutorial/assets/92793837/80074ffa-85d5-4bf2-824f-f2a13a3d1d1a)
+
+----
+
+![5-4](https://github.com/Argentum11/cube_tutorial/assets/92793837/a936cf69-7312-4fea-9925-0add7aced2a2)
+
