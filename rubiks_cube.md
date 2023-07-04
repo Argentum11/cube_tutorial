@@ -36,45 +36,45 @@
 
 ----
 
-### react to a letter
+### react to a letterr
 
-![react to a letter](https://github.com/Argentum11/cube_tutorial/assets/92793837/ba2b7f9d-37ae-4a3d-8d1b-eb0d5c5712e3)
+![react to a letter](https://github.com/Argentum11/cube_tutorial/raw/master/images/rubiks_cube/cube_notation/1_react_to_a_letter.png)
 
 ----
 
 ### letter with a number
 
-![react to a letter with a number](https://github.com/Argentum11/cube_tutorial/assets/92793837/a77e94b9-6d01-4062-83ba-26595b8e3c5d)
+![react to a letter with a number](https://github.com/Argentum11/cube_tutorial/raw/master/images/rubiks_cube/cube_notation/2_react_to_a_letter_with_a_number.png)
 
 ----
 
 ### letter with an apostrophe
 
-![react to a letter with an apostrophe](https://github.com/Argentum11/cube_tutorial/assets/92793837/a3c7ce66-b9c1-4646-a598-59f38919bc44)
+![react to a letter with an apostrophe](https://github.com/Argentum11/cube_tutorial/raw/master/images/rubiks_cube/cube_notation/3_react_to_a_letter_with_an_apostrophe.png)
 
 ----
 
-![B](https://github.com/Argentum11/cube_tutorial/assets/92793837/5e496ae5-8702-4fa4-9c4f-8fc947f3084f)
+![B](https://github.com/Argentum11/cube_tutorial/raw/master/images/rubiks_cube/cube_notation/B.png)
 
 ----
 
-![D](https://github.com/Argentum11/cube_tutorial/assets/92793837/404affa0-c093-4736-af48-e4f308421203)
+![D](https://github.com/Argentum11/cube_tutorial/raw/master/images/rubiks_cube/cube_notation/D.png)
 
 ----
 
-![F](https://github.com/Argentum11/cube_tutorial/assets/92793837/6dffc772-8bf7-4815-8544-cd9f0d6985f5)
+![F](https://github.com/Argentum11/cube_tutorial/raw/master/images/rubiks_cube/cube_notation/F.png)
 
 ----
 
-![L](https://github.com/Argentum11/cube_tutorial/assets/92793837/e325f3cb-9263-4223-beb8-e7199cdb6992)
+![L](https://github.com/Argentum11/cube_tutorial/raw/master/images/rubiks_cube/cube_notation/L.png)
 
 ----
 
-![R](https://github.com/Argentum11/cube_tutorial/assets/92793837/4497a632-6061-4292-83cc-b4a366247166)
+![R](https://github.com/Argentum11/cube_tutorial/raw/master/images/rubiks_cube/cube_notation/R.png)
 
 ----
 
-![U](https://github.com/Argentum11/cube_tutorial/assets/92793837/dfed6d08-32fd-4cff-bd93-bf9585d1df60)
+![U](https://github.com/Argentum11/cube_tutorial/raw/master/images/rubiks_cube/cube_notation/U.png)
 
 ---
 
