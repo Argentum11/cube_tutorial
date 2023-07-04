@@ -10,25 +10,25 @@
 
 ### left hand - thumb
 
-![left hand - thumb](https://github.com/Argentum11/cube_tutorial/assets/92793837/58ba4fbe-a3e4-4394-8eea-a0ac8823e3f2)
+![left hand - thumb](https://github.com/Argentum11/cube_tutorial/raw/master/images/rubiks_cube/cube_holding_technique/1-left_hand-thumb.png)
 
 ----
 
 ### left hand - middle & ring finger
 
-![left hand - middle & ring finger](https://github.com/Argentum11/cube_tutorial/assets/92793837/fdc5b990-a0f4-40c2-b319-157ac985f8b7)
+![left hand - middle & ring finger](https://github.com/Argentum11/cube_tutorial/raw/master/images/rubiks_cube/cube_holding_technique/2-left_hand-middle_and_ring_finger.png)
 
 ----
 
 ### right hand - middle & ring finger
 
-![right hand - middle & ring finger](https://github.com/Argentum11/cube_tutorial/assets/92793837/155fa60d-732c-4faf-91d8-877d53356f47)
+![right hand - middle & ring finger](https://github.com/Argentum11/cube_tutorial/raw/master/images/rubiks_cube/cube_holding_technique/3-right_hand-middle_and_ring_finger.png)
 
 ----
 
 ### right hand - thumb
 
-![right hand - thumb](https://github.com/Argentum11/cube_tutorial/assets/92793837/e2c7f431-9fd4-49cb-8ebd-c0d53741c13e)
+![right hand - thumb](https://github.com/Argentum11/cube_tutorial/raw/master/images/rubiks_cube/cube_holding_technique/4-right_hand-thumb.png)
 
 ---
 
