@@ -198,39 +198,39 @@
 
 ----
 
-![1-1 the edge piece on top without yellow - right](https://github.com/Argentum11/cube_tutorial/assets/92793837/f99b6a44-0ed6-4a1b-b724-8445e0c50cba)
+![1-1 the edge piece on top without yellow - right](https://github.com/Argentum11/cube_tutorial/raw/master/images/rubiks_cube/solving_steps/2_middle_layer/1-1_the_edge_piece_on_top_without_yellow-right.png)
 
 ----
 
-![1-2](https://github.com/Argentum11/cube_tutorial/assets/92793837/b791b05e-a966-4e86-af48-8d65cb0f17d2)
+![1-2](https://github.com/Argentum11/cube_tutorial/raw/master/images/rubiks_cube/solving_steps/2_middle_layer/1-2.png)
 
 ----
 
-![1-3](https://github.com/Argentum11/cube_tutorial/assets/92793837/4ce4110e-7ad3-4c5f-a9e6-b4b20990684c)
+![1-3](https://github.com/Argentum11/cube_tutorial/raw/master/images/rubiks_cube/solving_steps/2_middle_layer/1-3.png)
 
 ----
 
 ### fix the misplaced white piece
 
-![2-1 fix the misplaced white](https://github.com/Argentum11/cube_tutorial/assets/92793837/7b214a6e-6800-42b2-8c41-accd52491c9e)
+![2-1 fix the misplaced white piece](https://github.com/Argentum11/cube_tutorial/raw/master/images/rubiks_cube/solving_steps/2_middle_layer/2-1_fix_the_misplaced_white_piece.png)
 
 ----
 
-![2-2](https://github.com/Argentum11/cube_tutorial/assets/92793837/9ed23ea6-7f18-4ef2-9043-f20d29ab05f5)
+![2-2](https://github.com/Argentum11/cube_tutorial/raw/master/images/rubiks_cube/solving_steps/2_middle_layer/2-2.png)
 
 ----
 
-![3 the edge piece on top without yellow - left](https://github.com/Argentum11/cube_tutorial/assets/92793837/1f0a6548-8622-4a24-a15c-5644944efbbd)
+![3 the edge piece on top without yellow - left](https://github.com/Argentum11/cube_tutorial/raw/master/images/rubiks_cube/solving_steps/2_middle_layer/3_the_edge_piece_on_top_without_yellow-left.png)
 
 ----
 
 ### no edge piece left but middle layer unsolved
 
-![4-1 no edge piece left but middle layer unsolved](https://github.com/Argentum11/cube_tutorial/assets/92793837/8184976a-3b60-496c-afcb-d81f6eedf820)
+![4-1 no edge piece left but middle layer unsolved](https://github.com/Argentum11/cube_tutorial/raw/master/images/rubiks_cube/solving_steps/2_middle_layer/4-1_no_edge_piece_left_but_middle_layer_unsolved.png)
 
 ----
 
-![4-2](https://github.com/Argentum11/cube_tutorial/assets/92793837/cb307c75-e407-4c49-be15-d6a277cef285)
+![4-2](https://github.com/Argentum11/cube_tutorial/raw/master/images/rubiks_cube/solving_steps/2_middle_layer/4-2.png)
 
 ---
 
