@@ -124,73 +124,73 @@
 
 ### 1. make the daisy
 
-![1 make the daisy](https://github.com/Argentum11/cube_tutorial/assets/92793837/6a025089-ef01-46ee-af80-73ced34cbd93)
+![1 make the daisy](https://github.com/Argentum11/cube_tutorial/raw/master/images/rubiks_cube/solving_steps/1_bottom_layer/1_make_the_daisy.png)
 
 ----
 
 ### 2. make the white cross
 
-![2 create the white cross](https://github.com/Argentum11/cube_tutorial/assets/92793837/9b14c1d6-9b23-41a7-9c61-4b58d3480730)
+![2-1 create the white cross](https://github.com/Argentum11/cube_tutorial/raw/master/images/rubiks_cube/solving_steps/1_bottom_layer/2-1_create_the_white_cross.png)
 
 ----
 
-![2-2](https://github.com/Argentum11/cube_tutorial/assets/92793837/022c8ec2-294a-4a9b-ab72-a35730158bb7)
+![2-2](https://github.com/Argentum11/cube_tutorial/raw/master/images/rubiks_cube/solving_steps/1_bottom_layer/2-2.png)
 
 ----
 
-![2-3](https://github.com/Argentum11/cube_tutorial/assets/92793837/87396c42-d887-4e05-b7a9-8de47b1afcee)
+![2-3](https://github.com/Argentum11/cube_tutorial/raw/master/images/rubiks_cube/solving_steps/1_bottom_layer/2-3.png)
 
 ----
 
-![2-4](https://github.com/Argentum11/cube_tutorial/assets/92793837/68d0e59d-c414-4ab2-94be-917fbe514c62)
+![2-4](https://github.com/Argentum11/cube_tutorial/raw/master/images/rubiks_cube/solving_steps/1_bottom_layer/2-4.png)
 
 ----
 
 ### 3. solve the corner of bottom face
 
-![3-1 white block on the top layer of F](https://github.com/Argentum11/cube_tutorial/assets/92793837/634aff3d-fb50-40c3-a42e-83540b5ea2bd)
+![3-1 white block on the top layer of F](https://github.com/Argentum11/cube_tutorial/raw/master/images/rubiks_cube/solving_steps/1_bottom_layer/3-1_white_block_on_the_top_layer_of_F.png)
 
 ----
 
 ### white block on the top layer of F
 
-![3-2](https://github.com/Argentum11/cube_tutorial/assets/92793837/974857c2-23e0-4e1c-9a16-4544eeca0181)
+![3-2](https://github.com/Argentum11/cube_tutorial/raw/master/images/rubiks_cube/solving_steps/1_bottom_layer/3-2.png)
 
 ----
 
-![3-3](https://github.com/Argentum11/cube_tutorial/assets/92793837/1a60768d-2871-4b80-9746-59e32b7d1c77)
+![3-3](https://github.com/Argentum11/cube_tutorial/raw/master/images/rubiks_cube/solving_steps/1_bottom_layer/3-3.png)
 
 ----
 
-![3-4](https://github.com/Argentum11/cube_tutorial/assets/92793837/cd499fd1-18ee-4c07-8f81-775f9c31ccdd)
+![3-4](https://github.com/Argentum11/cube_tutorial/raw/master/images/rubiks_cube/solving_steps/1_bottom_layer/3-4.png)
 
 ----
 
 ### white block on the bottom layer of F
 
-![4-1 white block on the bottom layer of F](https://github.com/Argentum11/cube_tutorial/assets/92793837/e688e389-9617-49f0-942f-2f54e6c44cda)
+![4-1 white block on the bottom layer of F](https://github.com/Argentum11/cube_tutorial/raw/master/images/rubiks_cube/solving_steps/1_bottom_layer/4-1_white_block_on_the_bottom_layer_of_F.png)
 
 ----
 
-![4-2](https://github.com/Argentum11/cube_tutorial/assets/92793837/eda16e7a-8b54-4e8e-b48e-752b11475545)
+![4-2](https://github.com/Argentum11/cube_tutorial/raw/master/images/rubiks_cube/solving_steps/1_bottom_layer/4-2.png)
 
 ----
 
-### white block on the U face
+##### white block on the U face
 
-![5-1 white block in U](https://github.com/Argentum11/cube_tutorial/assets/92793837/39290797-94ed-49c2-91d4-b3f657ddaf57)
-
-----
-
-![5-2](https://github.com/Argentum11/cube_tutorial/assets/92793837/7c8c63b4-f5fa-409c-bdf0-05b985c0f231)
+![5-1 white block in U](https://github.com/Argentum11/cube_tutorial/raw/master/images/rubiks_cube/solving_steps/1_bottom_layer/5-1_white_block_in_U.png)
 
 ----
 
-![5-3](https://github.com/Argentum11/cube_tutorial/assets/92793837/80074ffa-85d5-4bf2-824f-f2a13a3d1d1a)
+![5-2](https://github.com/Argentum11/cube_tutorial/raw/master/images/rubiks_cube/solving_steps/1_bottom_layer/5-2.png)
 
 ----
 
-![5-4](https://github.com/Argentum11/cube_tutorial/assets/92793837/a936cf69-7312-4fea-9925-0add7aced2a2)
+![5-3](https://github.com/Argentum11/cube_tutorial/raw/master/images/rubiks_cube/solving_steps/1_bottom_layer/5-3.png)
+
+----
+
+![5-4](https://github.com/Argentum11/cube_tutorial/raw/master/images/rubiks_cube/solving_steps/1_bottom_layer/5-4.png)
 
 ---
 
