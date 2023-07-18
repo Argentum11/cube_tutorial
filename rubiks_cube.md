@@ -240,19 +240,19 @@
 
 ### yellow cross
 
-![1-1 create the yellow cross](https://github.com/Argentum11/cube_tutorial/assets/92793837/a8cccdb3-830d-47f6-bc89-53507bbd7689)
+![1-1 create the yellow cross](https://github.com/Argentum11/cube_tutorial/raw/master/images/rubiks_cube/solving_steps/3_top_layer/1-1_create_the_yellow_cross.png)
 
 ----
 
-![1-2 no yellow edge on U](https://github.com/Argentum11/cube_tutorial/assets/92793837/4b07b341-50a8-4091-ba2d-fcd7b4f2aa11)
+![1-2 no yellow edge on U](https://github.com/Argentum11/cube_tutorial/raw/master/images/rubiks_cube/solving_steps/3_top_layer/1-2_no_yellow_edge_on_U.png)
 
 ----
 
-![1-3 two yellow edge form a line on U](https://github.com/Argentum11/cube_tutorial/assets/92793837/f513767f-09f9-4805-bf4e-42f0915e6d1b)
+![1-3 two yellow edge form a line on U](https://github.com/Argentum11/cube_tutorial/raw/master/images/rubiks_cube/solving_steps/3_top_layer/1-3_two_yellow_edge_form_a_line_on_U.png)
 
 ----
 
-![1-4 two yellow edge form a L on U](https://github.com/Argentum11/cube_tutorial/assets/92793837/73965e67-fa26-4bf0-9acf-5dbf191577e5)
+![1-4 two yellow edge form a L on U](https://github.com/Argentum11/cube_tutorial/raw/master/images/rubiks_cube/solving_steps/3_top_layer/1-4_two_yellow_edge_form_a_L_on_U.png)
 
 ----
 
@@ -260,15 +260,15 @@
 
 ----
 
-![2-1 solve the yellow face - 0 or 2 corners](https://github.com/Argentum11/cube_tutorial/assets/92793837/24871bb6-2c0e-4ee0-a10b-dd865b59b62e)
+![2-1 solve the yellow face - 0 or 2 corners](https://github.com/Argentum11/cube_tutorial/raw/master/images/rubiks_cube/solving_steps/3_top_layer/2-1_solve_the_yellow_face-0_or_2_corners.png)
 
 ----
 
-![2-2 solve the yellow face](https://github.com/Argentum11/cube_tutorial/assets/92793837/88825475-bab0-42d7-aa57-61cb6f9e0d98)
+![2-2 solve the yellow face](https://github.com/Argentum11/cube_tutorial/raw/master/images/rubiks_cube/solving_steps/3_top_layer/2-2.png)
 
 ----
 
-![2-3 solve the yellow face - 1 corner](https://github.com/Argentum11/cube_tutorial/assets/92793837/ab1f46c5-6014-4821-9f40-4f06bf49ba02)
+![2-3 solve the yellow face - 1 corner](https://github.com/Argentum11/cube_tutorial/raw/master/images/rubiks_cube/solving_steps/3_top_layer/2-3_solve_the_yellow_face-1_corner.png)
 
 ----
 
@@ -276,44 +276,44 @@
 
 ----
 
-![3-1 position the corner blocks](https://github.com/Argentum11/cube_tutorial/assets/92793837/ba2866a3-2705-4fc1-bf8c-d9fa2c81bc9a)
+![3-1 position the corner blocks](https://github.com/Argentum11/cube_tutorial/raw/master/images/rubiks_cube/solving_steps/3_top_layer/3-1_position_the_corner_blocks.png)
 
 ----
 
-![3-2 no same color corner on any face](https://github.com/Argentum11/cube_tutorial/assets/92793837/4b24bc12-bc59-49fc-bb1f-348fa5eef17e)
+![3-2 no same color corner on any face](https://github.com/Argentum11/cube_tutorial/raw/master/images/rubiks_cube/solving_steps/3_top_layer/3-2_no_same_color_corner_on_any_face.png)
 
 ----
 
-![3-3 same color corner on one face](https://github.com/Argentum11/cube_tutorial/assets/92793837/0b8fafcb-7382-4ce1-a26b-f425fd1f9698)
+![3-3 same color corner on one face](https://github.com/Argentum11/cube_tutorial/raw/master/images/rubiks_cube/solving_steps/3_top_layer/3-3_same_color_corner_on_one_face.png)
 
 ----
 
-![3-4 fit the corner with the face](https://github.com/Argentum11/cube_tutorial/assets/92793837/217cbd7d-5bd0-4ddc-a028-c5a0f32138cd)
+![3-4 fit the corner with the face](https://github.com/Argentum11/cube_tutorial/raw/master/images/rubiks_cube/solving_steps/3_top_layer/3-4_fit_the_corner_with_the_face.png)
 
 ----
 
 ### position the edges
 
-![4-1 position the edges - one face solved](https://github.com/Argentum11/cube_tutorial/assets/92793837/bd1fcc79-bb7e-4d1c-834e-6559206fad73)
+![4-1 position the edges - one face solved](https://github.com/Argentum11/cube_tutorial/raw/master/images/rubiks_cube/solving_steps/3_top_layer/4-1_position_the_edges-one_face_solved.png)
 
 ----
 
-![4-2 one face solved - clockwise change](https://github.com/Argentum11/cube_tutorial/assets/92793837/72f21b63-50e5-47a1-a0c4-4a22da9f33c8)
+![4-2 one face solved - clockwise change](https://github.com/Argentum11/cube_tutorial/raw/master/images/rubiks_cube/solving_steps/3_top_layer/4-2_one_face_solved-clockwise_change.png)
 
 ----
 
-![4-3 one face solved - counterclockwise change](https://github.com/Argentum11/cube_tutorial/assets/92793837/105dae6f-9921-43f4-b799-36b828f96468)
+![4-3 one face solved - counterclockwise change](https://github.com/Argentum11/cube_tutorial/raw/master/images/rubiks_cube/solving_steps/3_top_layer/4-3_one_face_solved-counterclockwise_change.png)
 
 ----
 
-![4-4 no face solved](https://github.com/Argentum11/cube_tutorial/assets/92793837/f5efca33-96c1-49ab-96ac-ba12d55df778)
+![4-4 no face solved](https://github.com/Argentum11/cube_tutorial/raw/master/images/rubiks_cube/solving_steps/3_top_layer/4-4_no_face_solved.png)
 
 ----
 
-![4-5](https://github.com/Argentum11/cube_tutorial/assets/92793837/e726aa3e-d7ba-4662-bff4-0ab66c85276d)
+![4-5](https://github.com/Argentum11/cube_tutorial/raw/master/images/rubiks_cube/solving_steps/3_top_layer/4-5.png)
 
 ---
 
 ## The end
 
-![image](https://github.com/Argentum11/cube_tutorial/assets/92793837/4030d96e-6b7c-4605-bb12-5bb0e7f121f0)
+![congratulations](https://github.com/Argentum11/cube_tutorial/raw/master/images/rubiks_cube/solving_steps/the_end.png)
